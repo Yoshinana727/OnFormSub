@@ -2,7 +2,7 @@ function onFormSubmit(e) {
   //==========================================================
   // 設定箇所
   //==========================================================
-  var CALENDAR_ID = 'yoshida.nana@classmethod.jp';
+  var CALENDAR_ID = '{自分のメールアドレス}';
   var SHIFT1 = '日勤';
   var SHIFT2 = '夜勤';
   
